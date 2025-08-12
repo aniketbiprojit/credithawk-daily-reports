@@ -59,7 +59,7 @@ export async function sendSlackNotification({
   });
 }
 
-async function main() {
+export async function runCronJob() {
   try {
     try {
       // Initialize BigQuery
@@ -98,7 +98,7 @@ async function main() {
 }
 
 if (require.main === module) {
-  main()
+  runCronJob()
     .then(() => {
       console.log("Report generation completed!");
 
