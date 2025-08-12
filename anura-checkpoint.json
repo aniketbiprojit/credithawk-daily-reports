@@ -1,0 +1,222 @@
+{
+  "20250715": {
+    "startDate": 20250715,
+    "updatedAt": "2025-07-21T20:12:17.241Z",
+    "requestReportId": "QcdkpD3j",
+    "requestReady": true,
+    "responseReportId": "cDKW9hr0",
+    "responseReady": true,
+    "requestMetadataId": "QcdkpD3j",
+    "responseMetadataId": "cDKW9hr0",
+    "status": "COMPLETED"
+  },
+  "20250717": {
+    "startDate": 20250717,
+    "updatedAt": "2025-07-21T20:17:57.642Z",
+    "requestReportId": "AN5erVww",
+    "requestReady": true,
+    "responseReportId": "HbQVhr4H",
+    "responseReady": true,
+    "requestMetadataId": "AN5erVww",
+    "responseMetadataId": "HbQVhr4H",
+    "status": "COMPLETED"
+  },
+  "20250719": {
+    "startDate": 20250719,
+    "updatedAt": "2025-07-24T14:12:42.298Z",
+    "requestReportId": "16G6zsyx",
+    "requestReady": true,
+    "responseReportId": "R9WdNbgS",
+    "responseReady": true,
+    "requestMetadataId": "16G6zsyx",
+    "responseMetadataId": "R9WdNbgS",
+    "status": "COMPLETED"
+  },
+  "20250720": {
+    "startDate": 20250720,
+    "updatedAt": "2025-07-22T13:39:28.560Z",
+    "status": "COMPLETED",
+    "requestReportId": "fy3yMxgB",
+    "requestReady": true,
+    "responseReportId": "ZaMZjnAV",
+    "responseReady": true,
+    "requestMetadataId": "fy3yMxgB",
+    "responseMetadataId": "ZaMZjnAV"
+  },
+  "20250721": {
+    "startDate": 20250721,
+    "updatedAt": "2025-07-24T14:10:55.820Z",
+    "requestReportId": "1y8uStm0",
+    "requestReady": true,
+    "responseReportId": "CZEzT9ww",
+    "responseReady": true,
+    "requestMetadataId": "1y8uStm0",
+    "responseMetadataId": "CZEzT9ww",
+    "status": "COMPLETED"
+  },
+  "20250723": {
+    "startDate": 20250723,
+    "updatedAt": "2025-07-25T14:36:25.352Z",
+    "requestReportId": "eX8CDU0h",
+    "requestReady": true,
+    "responseReportId": "13z0sYFz",
+    "responseReady": true,
+    "requestMetadataId": "eX8CDU0h",
+    "responseMetadataId": "13z0sYFz",
+    "status": "COMPLETED"
+  },
+  "20250724": {
+    "startDate": 20250724,
+    "updatedAt": "2025-07-26T15:22:24.004Z",
+    "requestReportId": "HTMb2x56",
+    "requestReady": true,
+    "responseReportId": "aJGf0Jvq",
+    "responseReady": true,
+    "requestMetadataId": "HTMb2x56",
+    "responseMetadataId": "aJGf0Jvq",
+    "status": "COMPLETED"
+  },
+  "20250725": {
+    "startDate": 20250725,
+    "updatedAt": "2025-07-27T14:37:36.132Z",
+    "requestReportId": "06XnXW1e",
+    "requestReady": true,
+    "responseReportId": "RSp3FcfD",
+    "responseReady": true,
+    "requestMetadataId": "06XnXW1e",
+    "responseMetadataId": "RSp3FcfD",
+    "status": "COMPLETED"
+  },
+  "20250726": {
+    "startDate": 20250726,
+    "updatedAt": "2025-07-29T12:27:21.206Z",
+    "requestReportId": "0h4BPGmQ",
+    "requestReady": true,
+    "responseReportId": "nPu8sKRv",
+    "responseReady": true,
+    "requestMetadataId": "0h4BPGmQ",
+    "responseMetadataId": "nPu8sKRv",
+    "status": "COMPLETED"
+  },
+  "20250727": {
+    "startDate": 20250727,
+    "updatedAt": "2025-07-30T22:20:57.704Z",
+    "requestReportId": "yxxKXYsF",
+    "requestReady": true,
+    "responseReportId": "YxqzyCBn",
+    "responseReady": true,
+    "requestMetadataId": "yxxKXYsF",
+    "responseMetadataId": "YxqzyCBn",
+    "status": "COMPLETED"
+  },
+  "20250728": {
+    "startDate": 20250728,
+    "updatedAt": "2025-07-30T22:16:51.387Z",
+    "requestReportId": "t1p8MUct",
+    "requestReady": true,
+    "responseReportId": "cPS73KAj",
+    "responseReady": true,
+    "requestMetadataId": "t1p8MUct",
+    "responseMetadataId": "cPS73KAj",
+    "status": "COMPLETED"
+  },
+  "20250729": {
+    "startDate": 20250729,
+    "updatedAt": "2025-07-31T19:45:24.147Z",
+    "requestReportId": "VHVMtrDz",
+    "requestReady": true,
+    "responseReportId": "JpXQ27XF",
+    "responseReady": true,
+    "requestMetadataId": "VHVMtrDz",
+    "responseMetadataId": "JpXQ27XF",
+    "status": "COMPLETED"
+  },
+  "20250802": {
+    "startDate": 20250802,
+    "updatedAt": "2025-08-04T22:00:37.033Z",
+    "requestReportId": "WEVK2YHR",
+    "requestReady": true,
+    "responseReportId": "pZfNPk2M",
+    "responseReady": true,
+    "requestMetadataId": "WEVK2YHR",
+    "responseMetadataId": "pZfNPk2M",
+    "status": "COMPLETED"
+  },
+  "20250803": {
+    "startDate": 20250803,
+    "updatedAt": "2025-08-05T22:17:56.093Z",
+    "requestReportId": "7KDghbZ0",
+    "requestReady": true,
+    "responseReportId": "mZtkBz1d",
+    "responseReady": true,
+    "requestMetadataId": "7KDghbZ0",
+    "responseMetadataId": "mZtkBz1d",
+    "status": "COMPLETED"
+  },
+  "20250804": {
+    "startDate": 20250804,
+    "updatedAt": "2025-08-07T00:37:01.536Z",
+    "requestReportId": "6u85QPZg",
+    "requestReady": true,
+    "responseReportId": "SV5hZQPT",
+    "responseReady": true,
+    "requestMetadataId": "6u85QPZg",
+    "responseMetadataId": "SV5hZQPT",
+    "status": "COMPLETED"
+  },
+  "20250805": {
+    "startDate": 20250805,
+    "updatedAt": "2025-08-07T20:48:57.061Z",
+    "requestReportId": "tZqMT68V",
+    "requestReady": true,
+    "responseReportId": "xEnARgYb",
+    "responseReady": true,
+    "requestMetadataId": "tZqMT68V",
+    "responseMetadataId": "xEnARgYb",
+    "status": "COMPLETED"
+  },
+  "20250806": {
+    "startDate": 20250806,
+    "updatedAt": "2025-08-08T23:39:10.332Z",
+    "requestReportId": "gZZRd4fx",
+    "requestReady": true,
+    "responseReportId": "KFsdNCgc",
+    "responseReady": true,
+    "requestMetadataId": "gZZRd4fx",
+    "responseMetadataId": "KFsdNCgc",
+    "status": "COMPLETED"
+  },
+  "20250807": {
+    "startDate": 20250807,
+    "updatedAt": "2025-08-10T09:17:14.467Z",
+    "requestReportId": "wazY6BdB",
+    "requestReady": true,
+    "responseReportId": "mN8F3RkA",
+    "responseReady": true,
+    "requestMetadataId": "wazY6BdB",
+    "responseMetadataId": "mN8F3RkA",
+    "status": "COMPLETED"
+  },
+  "20250808": {
+    "startDate": 20250808,
+    "updatedAt": "2025-08-11T20:07:55.929Z",
+    "requestReportId": "mngTt1wk",
+    "requestReady": true,
+    "responseReportId": "11sAJHZz",
+    "responseReady": true,
+    "requestMetadataId": "mngTt1wk",
+    "responseMetadataId": "11sAJHZz",
+    "status": "COMPLETED"
+  },
+  "20250809": {
+    "startDate": 20250809,
+    "updatedAt": "2025-08-11T20:09:36.713Z",
+    "requestReportId": "q0ugwR0V",
+    "requestReady": true,
+    "responseReportId": "NzwpuzAs",
+    "responseReady": true,
+    "requestMetadataId": "q0ugwR0V",
+    "responseMetadataId": "NzwpuzAs",
+    "status": "COMPLETED"
+  }
+}

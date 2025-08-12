@@ -1,0 +1,142 @@
+{
+  "2025-07-21": {
+    "reportDate": "2025-07-21T20:02:00.609Z",
+    "reportId": "5904945151",
+    "updatedAt": "2025-07-21T20:02:20.836Z",
+    "reportResultId": "7823523780",
+    "status": "COMPLETED"
+  },
+  "2025-07-17": {
+    "reportDate": "2025-07-17T00:00:00.000Z",
+    "reportId": "5905430778",
+    "updatedAt": "2025-07-21T23:08:01.363Z",
+    "reportResultId": "7824122512",
+    "status": "COMPLETED"
+  },
+  "2025-07-20": {
+    "reportDate": "2025-07-20T00:00:00.000Z",
+    "reportId": "5905447009",
+    "updatedAt": "2025-07-21T23:09:24.620Z",
+    "reportResultId": "7824157559",
+    "status": "COMPLETED"
+  },
+  "2025-07-22": {
+    "reportDate": "2025-07-22T00:00:00.000Z",
+    "reportId": "5908269503",
+    "updatedAt": "2025-07-22T13:38:17.788Z",
+    "reportResultId": "7827551604",
+    "status": "COMPLETED"
+  },
+  "2025-07-23": {
+    "reportDate": "2025-07-23T14:10:39.085Z",
+    "reportId": "5912803963",
+    "updatedAt": "2025-07-23T14:11:00.364Z",
+    "reportResultId": "7833048049",
+    "status": "COMPLETED"
+  },
+  "2025-07-24": {
+    "reportDate": "2025-07-24T14:07:24.914Z",
+    "reportId": "5917265080",
+    "updatedAt": "2025-07-24T14:07:51.728Z",
+    "reportResultId": "7838477497",
+    "status": "COMPLETED"
+  },
+  "2025-07-25": {
+    "reportDate": "2025-07-25T00:00:00.000Z",
+    "reportId": "5921704047",
+    "updatedAt": "2025-07-25T14:35:21.334Z",
+    "reportResultId": "7843914639",
+    "status": "COMPLETED"
+  },
+  "2025-07-26": {
+    "reportDate": "2025-07-26T00:00:00.000Z",
+    "reportId": "5926113888",
+    "updatedAt": "2025-07-26T15:21:04.827Z",
+    "reportResultId": "7849254807",
+    "status": "COMPLETED"
+  },
+  "2025-07-27": {
+    "reportDate": "2025-07-27T00:00:00.000Z",
+    "reportId": "5930186679",
+    "updatedAt": "2025-07-27T14:36:29.058Z",
+    "reportResultId": "7854195463",
+    "status": "COMPLETED"
+  },
+  "2025-07-28": {
+    "reportDate": "2025-07-28T00:00:00.000Z",
+    "reportId": "5938525200",
+    "updatedAt": "2025-07-29T12:25:52.346Z",
+    "reportResultId": "7864349950",
+    "status": "COMPLETED"
+  },
+  "2025-07-30": {
+    "reportDate": "2025-07-30T00:00:00.000Z",
+    "reportId": "5944787114",
+    "updatedAt": "2025-07-30T22:15:32.001Z",
+    "reportResultId": "7871857818",
+    "status": "COMPLETED"
+  },
+  "2025-07-31": {
+    "reportDate": "2025-07-31T00:00:00.000Z",
+    "reportId": "5948914612",
+    "updatedAt": "2025-07-31T19:44:17.190Z",
+    "reportResultId": "7876869684",
+    "status": "COMPLETED"
+  },
+  "2025-08-04": {
+    "reportDate": "2025-08-04T00:00:00.000Z",
+    "reportId": "5966602274",
+    "updatedAt": "2025-08-04T21:59:16.800Z",
+    "reportResultId": "7898338263",
+    "status": "COMPLETED"
+  },
+  "2025-08-05": {
+    "reportDate": "2025-08-05T00:00:00.000Z",
+    "reportId": "5971283050",
+    "updatedAt": "2025-08-05T22:16:44.912Z",
+    "reportResultId": "7903925102",
+    "status": "COMPLETED"
+  },
+  "2025-08-06": {
+    "reportDate": "2025-08-06T00:00:00.000Z",
+    "reportId": "5976072458",
+    "updatedAt": "2025-08-07T00:34:51.710Z",
+    "reportResultId": "7909732435",
+    "status": "COMPLETED"
+  },
+  "2025-08-07": {
+    "reportDate": "2025-08-07T00:00:00.000Z",
+    "reportId": "5979608915",
+    "updatedAt": "2025-08-07T20:47:26.341Z",
+    "reportResultId": "7914081280",
+    "status": "COMPLETED"
+  },
+  "2025-08-08": {
+    "reportDate": "2025-08-08T00:00:00.000Z",
+    "reportId": "5984409508",
+    "updatedAt": "2025-08-08T23:38:03.751Z",
+    "reportResultId": "7920025508",
+    "status": "COMPLETED"
+  },
+  "2025-08-09": {
+    "reportDate": "2025-08-09T00:00:00.000Z",
+    "reportId": "5990379761",
+    "updatedAt": "2025-08-10T09:15:22.032Z",
+    "reportResultId": "7927341873",
+    "status": "COMPLETED"
+  },
+  "2025-08-10": {
+    "reportDate": "2025-08-10T00:00:00.000Z",
+    "reportId": "5996797213",
+    "updatedAt": "2025-08-11T20:06:25.064Z",
+    "reportResultId": "7935036631",
+    "status": "COMPLETED"
+  },
+  "2025-08-11": {
+    "reportDate": "2025-08-11T00:00:00.000Z",
+    "reportId": "5996805955",
+    "updatedAt": "2025-08-11T20:08:51.578Z",
+    "reportResultId": "7935045368",
+    "status": "COMPLETED"
+  }
+}
